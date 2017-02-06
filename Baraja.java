@@ -35,4 +35,8 @@ public class Baraja{
 		}
 	}
 
+	public Carta getCarta(int i){
+		return cartas[i];
+	}
+
 }
